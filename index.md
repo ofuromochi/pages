@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: お風呂餅屋さん第4支店
 ---
 
